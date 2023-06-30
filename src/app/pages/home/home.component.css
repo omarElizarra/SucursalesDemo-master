@@ -1,0 +1,31 @@
+
+  mat-card-header{
+    justify-content: center;
+    text-align: center;
+  }
+
+  mat-form-field{
+    display: flexbox;
+    min-width: 21rem;
+    margin: 1rem;
+  }
+
+  mat-card-actions{
+    margin: 0rem 1rem;
+    justify-content: center;
+  }
+
+  .label-text{
+    margin: 1rem;
+  }
+
+  table{
+    margin: 1rem;
+    width: calc(100% - 2rem);
+    max-height: 20rem;
+    overflow: hidden;
+  }
+
+  .form-sucursal{
+    display: contents;
+  }
